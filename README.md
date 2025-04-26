@@ -1,6 +1,6 @@
 วิธีการรัน
 
-1. Run code ก่อนในไหนก้ได้ มันจะ default ที่ port 8080
+1. Run code ก่อนในไหนก้ได้ จะ default ที่ port 8080 ตัวผมรันในEclipse
 
 2. เปิด PostMan ใน desktop กรณี run local
 
