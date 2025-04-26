@@ -30,6 +30,7 @@
     "bs": "harness real-time e-markets"
   }
 }
+
 5. พอมันขึ้นว่า created หรือ status 201 แล้วให้เช็ค Get  http://localhost:8080/users ดู ID จะขึ้นเป็น 1
 
 ุ6. ลอง แก้ไขด้วย Put แต่ต้องระบุ ID เช่น  http://localhost:8080/users/1 แล้วให้แก้ไขข้อความใน Body
